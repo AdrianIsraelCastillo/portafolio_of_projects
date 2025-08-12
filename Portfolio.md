@@ -39,14 +39,14 @@ Welcome to my professional portfolio. Here you will find selected projects showc
 
 ---
 
-### 4. Decision Trees in R (`Decision_tree.Rmd`)
+### 4. Decision Trees in R (`Decision_tree.html`)
 - **Tech Stack:** R, RMarkdown
 - **Description:** Decision tree modeling to classify and analyze dataset patterns.
 - **Highlights:**
   - Data preprocessing
   - Model building with decision tree algorithms
   - Visualization and interpretation of tree structure
-- 📂 [View Project](./Decision_tree.Rmd)
+- 📂 [View Project](./Decision_tree.html)
 
 ---
 
