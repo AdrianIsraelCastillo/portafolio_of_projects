@@ -28,14 +28,14 @@ Welcome to my professional portfolio. Here you will find selected projects showc
 
 ---
 
-### 3. Power BI Dashboard – Fundación Teletón (`Dashboard_teleton.pbix`)
+### 3. Power BI Dashboard – Fundación Teletón (`Dashboard_teleton`)
 - **Tech Stack:** Power BI
 - **Description:** Interactive dashboard for KPI monitoring and data-driven decision making.
 - **Highlights:**
   - Data transformation using Power Query
   - KPI visualization
   - User-friendly report navigation
-- 📂 [View Project](./Dashboard_teleton.pbix)
+- 📂 [View Project](./Dashboard_teleton.gif)
 
 ---
 
