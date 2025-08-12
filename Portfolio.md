@@ -72,7 +72,7 @@ Welcome to my professional portfolio. Here you will find selected projects showc
 ## 📫 Contact
 - **LinkedIn:** www.linkedin.com/in/israel-castillo-0921b1352 
 - **Email:** israel.castillo.1007@gmail.com
-- **GitHub:** 
+- **GitHub:** https://github.com/AdrianIsraelCastillo 
 
 ---
 
